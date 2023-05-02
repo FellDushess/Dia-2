@@ -1,0 +1,16 @@
+*{
+  font-family: 'Montserrat', sans-serif;
+}
+
+body{
+  background-color: blanchedalmond;
+  text-align: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+header{
+  background-color: darksalmon;
+  padding: 20px;
+  border-radius: 20px;
+}
